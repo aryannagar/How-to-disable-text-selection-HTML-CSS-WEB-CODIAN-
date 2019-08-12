@@ -1,0 +1,13 @@
+WEB CODIAN
+
+In this repository you will going to find the stuff related that how you can disable the text selection 
+in your website. Through this code you can stop your visitors and other bad intentionally people to 
+copy down your content or information from your blog, post or your website.
+
+This code is free to use for anyone and anywhere.
+
+For video tutorial:
+
+For more interesting and stunning tips & tricks visit our YouTube Channel
+
+WEB CODIAN: https://www.youtube.com/channel/UCvDfMTJRY5y-O35vQCVGWKw
